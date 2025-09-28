@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My_lemonade</string>
+    <string name="header">Lemonade</string>
+    <!--Teksta ziņojumi-->
+    <string name="msgOne">Tap the lemon tree to select a lemon</string>
+    <string name="msgTwo">Keep tapping the lemon to squeeze it</string>
+    <string name="msgThree">Tap the lemonade to drink it</string>
+    <string name="msgFour">Tap the empty glass to start again</string>
+    <!--Attēli-->
+    <string name="imgOne">Lemon tree</string>
+    <string name="imgTwo">Lemon</string>
+    <string name="imgThree">Glass of lemonade</string>
+    <string name="imgFour">Empty glass</string>
+</resources>
