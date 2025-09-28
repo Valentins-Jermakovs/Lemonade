@@ -7,7 +7,7 @@
 ## Funkcionalitāte
 
 - Lietotājs sāk pie **citronu koka**.
-- Nospiežot uz citrona, notiek **sulā saspiešana**.
+- Nospiežot uz citrona, notiek **sulas saspiešana**.
 - Lietotājam jāveic nejaušs skaits klikšķu (2–4) uz citrona, lai iegūtu **limonādi**.
 - Pēc limonādes pagatavošanas lietotājs var **restartēt procesu**.
 - Katrs ekrāns satur attēlu un paskaidrojošu tekstu.
